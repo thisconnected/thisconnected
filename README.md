@@ -5,7 +5,7 @@
 - 🌱 I’m currently working at tfk technologies in the poland operation team
 - 📫 How to reach me:
   - email: thisconnecd@gmail.com
-  - work: patryk.kaniewski@tfk-technolgies.de
+  - work: patryk.kaniewski@tfk-technologies.de
   - irc: i lurk on libera.chat as thisconnect
   - discord: thisconnect#0548
 
