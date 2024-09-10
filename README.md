@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @thisconnected
 - 👀 I’m interested in linux and general opensource
-- 🌱 I’m currently learning ansible and rust
+- 🌱 I’m currently learning hacking stuff for communities im in
 - 💞️ I’m looking to collaborate on emulation and operating system development
-- 🌱 I’m currently working at tfk technologies in the poland operation team
 - 📫 How to reach me:
   - email: thisconnecd@gmail.com
-  - work: patryk.kaniewski@tfk-technologies.de
   - irc: i lurk on libera.chat as thisconnect
   - discord: thisconnect#0548
 
